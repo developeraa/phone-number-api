@@ -1,4 +1,4 @@
-# phone-number-service
+# phone-number-api
 APIs to handle customer phone numbers
 
 This maven project can be build using : mvn clean install. 
